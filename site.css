@@ -1,8 +1,9 @@
 ﻿body {
 	background: lightgreen;
+	width: 970px;
+	margin: 0 auto;
 }
 
 h1, p {
 	font-size: 36px;
-	text-align: center;
 }
